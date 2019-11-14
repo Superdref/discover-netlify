@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [Link]()
+* Link to the website deployed on Netlify : [Link](https://app.netlify.com/sites/lucid-saha-44a299/deploys))
